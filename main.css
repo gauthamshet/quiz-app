@@ -1,0 +1,13 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+}
+.startbutton{
+    width: auto;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+}
